@@ -1,0 +1,35 @@
+author: Guillermo Solovey
+
+instructor:
+  name: Dr. Guillermo Solovey
+  name_no_title: Guillermo Solovey
+  email: gsolovey@gmail.com
+  url: "https://gsolovey.netlify.app"
+  twitter: gsolovey
+  github: guillermosolovey
+  office: "2605, Edificio Cero+Infinito, Exactas-UBA"
+  officehrs: "a definir"
+  appointment_url: próximamente
+
+course:
+  title: "Estimación Bayesiana"
+  subtitle: "Introducción a la estadística bayesiana con un enfoque computacional"
+  aviso: "Materia electiva de la [Licenciatura en Ciencia de Datos](https://lcd.exactas.uba.ar/)."
+  inscripcion: "desde el 22 de Julio al 4 de Agosto de 2024."
+  siugrado: "a definir"
+  siudoctorado: "a definir"
+  correlativas: "Introducción a la Estadística y la Ciencia de Datos."
+  semester: "Segundo cuatrimestre 2024. Inicio de clases: semana del 12 de Agosto."
+  time: "Viernes de 9 a 13"
+  location: "Aula a definir"
+  github: "https://github.com/guillermosolovey/eb2024"
+  url: "https://bayes2024.netlify.app/"
+  copyright_year: "2024"
+        
+university:
+  name: Facultad de Ciencias Exactas y Naturales, UBA
+  url: "https://exactas.uba.ar"
+
+school:
+  name: Instituto de Cálculo
+  url: "https://ic.fcen.uba.ar"

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estimación Bayesiana",
+    "section": "",
+    "text": "Materia electiva de la Licenciatura en Ciencia de Datos.\n\n\n\n\n\n\n\n\n\nDocentes:\nGuillermo Solovey y Rocco Di Tella.\n\n\nHorario:\nViernes de 9 a 13 (a partir del 16 de Agosto).\n\n\nAula:\nA definir.\n\n\nCorrelativa:\nIntroducción a la Estadística y la Ciencia de Datos.\n\n\n\n\n\n\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "Próximamente"
+  },
+  {
+    "objectID": "ejercicios.html",
+    "href": "ejercicios.html",
+    "title": "Guías de problemas",
+    "section": "",
+    "text": "Próximamente"
+  },
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa",
+    "section": "",
+    "text": "Distinguir entre el enfoque estadístico frecuentista y bayesiano.\nConstruir modelos bayesianos para situaciones simples.\nUsar fluidamente R y Stan para implementar modelos estadísticos bayesianos.\nHacer predicciones e interpretar los resultados de un modelo bayesiano."
+  },
+  {
+    "objectID": "programa.html#objetivos",
+    "href": "programa.html#objetivos",
+    "title": "Programa",
+    "section": "",
+    "text": "Distinguir entre el enfoque estadístico frecuentista y bayesiano.\nConstruir modelos bayesianos para situaciones simples.\nUsar fluidamente R y Stan para implementar modelos estadísticos bayesianos.\nHacer predicciones e interpretar los resultados de un modelo bayesiano."
+  },
+  {
+    "objectID": "programa.html#programa",
+    "href": "programa.html#programa",
+    "title": "Programa",
+    "section": "Programa",
+    "text": "Programa\n\nUnidad 1\nFundamentos bayesianos: Aprender cómo pensar bayesianamente y cómo crear modelos bayesianos básicos.\nIntroducción a la estadística bayesiana. Diferencias entre estadística bayesiana y frecuentista. Pensar bayesianamente. Modelo beta-binomial. Equilibrio entre el prior y los datos. Análisis bayesiano secuencial. Familias conjugadas.\n\n\nUnidad 2\nSimulación y análisis de la distribución posterior: Herramientas computacionales para simular la distribución posterior en modelos bayesianos complejos.\nAnalizar modelos simulados y exactos para hacer inferencia y sacar conclusiones. Aproximar la distribución posterior. Método de grilla, Metrópolis-Hastings y Markov Chain Monte Carlo (MCMC). Implementación y diagnóstico en R. Estimación de parámetros Testeo de hipótesis. Predicción.\n\n\nUnidad 3\nModelos bayesianos de regresión y clasificación: Extender los modelos bayesianos a casos en los que la variable respuesta es contínua (regresión) y categórica (clasificación).\nRegresión Normal. Regresión múltiple. Variables de control y confusoras. Evaluación, diagnóstico y comparación de modelos de regresión. Regresión de Poisson. Naive-Bayes. Regresión logística.\n\n\nUnidad 4\nModelos bayesianos jerárquicos: Modelos bayesianos para datos multi-nivel, como datos longitudinales y de medidas repetidas.\nModelo complete-pool y no-pool. Modelos de pooling parcial. Modelo jerárquico normal sin predictores. Modelos de regresión y clasificación jerárquicos."
+  },
+  {
+    "objectID": "programa.html#bibliografía",
+    "href": "programa.html#bibliografía",
+    "title": "Programa",
+    "section": "Bibliografía",
+    "text": "Bibliografía\nprincipal:\n\nAlicia A. Johnson, Miles Q. Ott, and Mine Dogucu, Bayes Rules! An Introduction to Applied Bayesian Modeling\nRichard McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan, 2nd edition.\n\n\ncomplementaria:\n\nBen Lambert, A Student’s Guide to Bayesian Statistics.\nOsvaldo A. Martin, Ravin Kumar y Junpeng Lao, Bayesian Modeling and Computation in Python.\nPeter D. Hoff, A first course in Bayesian statistical methods.\nCameron Davidson-Pilon, Bayesian methods for hackers: probabilistic programming and Bayesian inference.\nDavid Robinson, Introduction to empirical bayes: examples from baseball statistics.\nAndrew Gelman, Jennifer Hill, and Aki Vehtari, Regression and other stories."
+  }
+]

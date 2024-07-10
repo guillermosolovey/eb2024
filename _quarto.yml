@@ -1,0 +1,33 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "eb2024"
+  site-url: "https://bayes2024.netlify.app/"
+  navbar:
+    pinned: true
+    background: "#F0DC14"
+    right:
+      - href: index.qmd
+        text: "{{< fa home >}} Home"
+      - href: cronograma.qmd
+        text: "{{< fa calendar >}} Cronograma"
+      - href: programa.qmd
+        text: "{{< fa code >}} Programa"
+      - href: ejercicios.qmd
+        text: "{{< fa dumbbell >}} Ejercicios"
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+
